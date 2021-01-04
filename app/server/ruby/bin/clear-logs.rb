@@ -14,7 +14,7 @@ require 'tmpdir'
 require 'fileutils'
 require 'time'
 
-require_relative "../core.rb"
+require_relative "../lib/sonicpi/core.rb"
 require_relative "../lib/sonicpi/util"
 
 include SonicPi::Util

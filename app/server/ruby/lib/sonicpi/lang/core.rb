@@ -11,6 +11,7 @@
 # distribution of modified versions of this work as long as this
 # notice is included.
 #++
+require_relative "../core"
 require_relative 'support/docsystem'
 require_relative "../version"
 require_relative "../util"

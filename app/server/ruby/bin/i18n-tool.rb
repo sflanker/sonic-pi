@@ -13,7 +13,7 @@
 #++
 
 # This script creates translated versions of the English tutorial.
-require_relative "../core.rb"
+require_relative "../lib/sonicpi/core.rb"
 
 require 'kramdown'
 require 'gettext'

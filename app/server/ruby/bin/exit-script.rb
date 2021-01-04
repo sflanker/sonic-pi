@@ -14,7 +14,7 @@
 ## This script cleans up the environment after the server has finished
 ## It should be executed after starting the GUI/headless server
 
-require_relative "../core.rb"
+require_relative "../lib/sonicpi/core.rb"
 require_relative "../lib/sonicpi/util"
 
 include SonicPi::Util

@@ -13,7 +13,7 @@
 
 require 'tmpdir'
 require 'fileutils'
-require_relative "../core"
+require_relative "../lib/sonicpi/core"
 require_relative "../lib/sonicpi/util"
 require 'sys-proctable'
 

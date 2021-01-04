@@ -11,7 +11,7 @@
 # notice is included.
 #++
 
-require_relative "../core.rb"
+require_relative "../lib/sonicpi/core.rb"
 require_relative "../lib/sonicpi/util"
 require_relative "../lib/sonicpi/config/settings"
 require 'net/http'

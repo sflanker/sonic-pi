@@ -14,7 +14,7 @@
 ## This script prepares the environment read for the server to start
 ## It should be executed before starting the GUI/headless server
 
-require_relative "../core.rb"
+require_relative "../lib/sonicpi/core.rb"
 require_relative "../lib/sonicpi/util"
 
 include SonicPi::Util

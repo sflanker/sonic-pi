@@ -16,7 +16,7 @@ require 'cgi'
 require 'rbconfig'
 
 
-require_relative "../core.rb"
+require_relative "../lib/sonicpi/core.rb"
 require_relative "../lib/sonicpi/studio"
 
 require_relative "../lib/sonicpi/server"

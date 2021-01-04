@@ -12,7 +12,7 @@
 # notice is included.
 #++
 
-require_relative "../core.rb"
+require_relative "../lib/sonicpi/core.rb"
 require_relative "../lib/sonicpi/synths/synthinfo"
 require_relative "../lib/sonicpi/util"
 
